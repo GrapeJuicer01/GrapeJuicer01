@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Software Engineer sharing about my journey and learning in technology<br/>
+Studied Computer Science at the University of Essex, Kaplan Singapore<br/>
+Linkedin >>> [Click Me](https://www.linkedin.com/in/marcus-chua-7a5491203/)<br/>
+Currently learning about full-stack web development @ [here](https://www.udemy.com/course/the-web-developer-bootcamp/?couponCode=CMCPSALE24)<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GrapeJuicer01=anuraghazra&hide=contribs,prs)
 <!--
 **GrapeJuicer01/GrapeJuicer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
